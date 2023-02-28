@@ -1,0 +1,61 @@
+VISNETA ORDERS COLUMNS
+mycursor.execute("CREATE TABLE visnetaOrders_columnDataTypes (colName VARCHAR(255), dataType VARCHAR(255))")
+
+
+CHILD ORDERS TABLE
+CREATE TABLE ourps_childOrders
+( Service# VARCHAR(255),
+  Customer Case
+  Address
+  City
+  State
+  Zip
+  County
+  Apt No
+  Portfolio
+  Step
+  Loan
+  House Type
+  Operational Category
+  Master Category
+  Contractor
+  Contractor Email
+  Status
+  Status Date
+  Issue Date
+  Issue Timestamp
+  Due Date
+  Completion Date
+  Completion Timestamp
+  Service Type
+  Service Price
+  Audit Price
+  Client Price
+  LockBox Code
+  Service Description
+  Audit Comments
+  Vendor Comments
+  AKA Service#
+  Property Substatus
+  Created By
+  Audited By
+  General Comments
+  Revenue Service#
+  Primary Image Tags
+  Secondary Image Tags
+  Third Party Assigned To
+  Third Party Review Link
+  Date of Third Party Review Link
+  Unit Quantity
+  Unit Type
+  Bid #
+  Bid Request Child #
+  Client Request Date
+  Client Completion Date
+  Approval Company
+  Invoice Number
+  Contractor Company ID
+  Client Start Date
+  Client End Date
+)
+
